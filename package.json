@@ -13,11 +13,11 @@
     "render-html"
   ],
   "dependencies": {
-    "buffer": "^5.4.3",
-    "events": "^3.0.0",
+    "buffer": "^5.5.0",
+    "events": "^3.1.0",
     "html-entities": "^1.2.0",
     "htmlparser2": "^3.10.1",
-    "react-native-webview": "^8.0.0"
+    "react-native-webview": "^9.0.1"
   },
   "peerDependencies": {
     "prop-types": ">=15.5.10",
@@ -25,15 +25,15 @@
     "react-native": "*"
   },
   "devDependencies": {
-    "babel-eslint": "^10.0.3",
-    "eslint": "^6.7.2",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
     "eslint-config-standard": "^14.1.0",
     "eslint-config-standard-jsx": "^8.1.0",
     "eslint-config-standard-react": "^9.2.0",
-    "eslint-plugin-import": "^2.19.1",
-    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
     "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-react": "^7.17.0",
+    "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-standard": "^4.0.1"
   }
 }
